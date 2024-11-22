@@ -1,4 +1,4 @@
-# Internet-Traffic-Measurement-Algorithm-Implemnetation
+# Internet-Traffic-Measurement-Algorithm-Implementation
 Implement 3 popular and powerful traffic measurement algorithms.
 
 This is a school course project.
